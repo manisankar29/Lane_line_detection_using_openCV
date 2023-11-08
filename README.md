@@ -211,8 +211,27 @@ process_video('challenge_video1.mp4','output1.mp4')
 
 output.mp4
 
-https://github.com/manisankar29/Lane_line_detection/assets/138246745/56345ef9-c607-427d-8756-a9dba5ecce54a
+https://github.com/manisankar29/Lane_line_detection/assets/138246745/0a4a13a4-95c4-4a89-ab04-f689c623c9f3
 
 output1.mp4
 
 https://github.com/manisankar29/Lane_line_detection/assets/138246745/2cc322b0-02fc-4e12-93ba-263c1906c902
+
+## Note 
+
+- The accuracy of lane line detection depends on the quality and diversity of the test videos. It may not be perfect in all cases.
+- Ensure that the video file paths are correctly specified in the code.
+
+Feel free to modify the code to suit your needs and add more lane line videos for detection.
+
+Enjoy using the lane line detection script!
+
+If you encounter any issues or have questions, feel free to reach out for assistance.
+
+```vbnet
+You can include this README.md file in your project's repository, and it will serve as a guide for users who want to use the provided lane line detection code.
+```
+
+## License
+
+[MIT License](LICENSE)
