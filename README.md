@@ -24,7 +24,7 @@ Before using this code, ensure that you have the following prerequisites:
 ## Getting Started
 
 1. Clone this repository or create a new python script.
-2. Place your input video files in the same directory as the script. In the provided code, the input videos are [challenge_video.mp4](#Test_videos/challenge_video.mp4) and [challenge_video1.mp4](#challenge_video1.mp4).
+2. Place your input video files in the same directory as the script. In the provided code, the input videos are [challenge_video.mp4](challenge_video.mp4) and [challenge_video1.mp4](challenge_video1.mp4).
 3. Run the Python script. The code will perform lane line detection on the unknown videos and display the results.
 
 ## Code Explanation
