@@ -6,8 +6,8 @@ This document provides information about the test videos used in the source code
 
 The following test videos are used in the source code for testing:
 
-1. challenge_video
-2. challenge_video1
+1. [challenge_video](challenge_video.mp4)
+2. [challenge_video1](challenge_video1.mp4)
 
 ## Disclaimer
 
