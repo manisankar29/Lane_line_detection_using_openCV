@@ -1,5 +1,0 @@
-streamlit
-cv2
-numpy
-moviepy
-tempfile
