@@ -6,6 +6,7 @@
 - [Getting Started](#getting-started)
 - [Code Explanation](#code-explanation)
 - [Example Output](#example-output)
+- [Application](#application)
 - [Note](#note)
 - [License](#license)
 
@@ -216,6 +217,10 @@ https://github.com/manisankar29/Lane_line_detection/assets/138246745/0a4a13a4-95
 output1.mp4
 
 https://github.com/manisankar29/Lane_line_detection/assets/138246745/2cc322b0-02fc-4e12-93ba-263c1906c902
+
+## Application
+
+<img width="959" alt="image" src="https://github.com/manisankar29/Lane_line_detection_using_openCV/assets/138246745/144144a2-7ca9-4ec1-b4f3-0bf0adde709c">
 
 ## Note 
 
